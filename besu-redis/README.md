@@ -1,4 +1,4 @@
-# Besu Redis Key value store plugin
+# Besu 3-Node: Redis Cluster Plugin
 
 ## Overview
 
@@ -17,7 +17,7 @@ Using a Redis cluster as a storage engine for Besu enables to specify multiple t
 
 ## Architecture
 
-![architecture](./src/main/resources/architecture.png)
+![architecture](https://raw.githubusercontent.com/freight-chain/besu-storage-redis/master/src/main/resources/architecture.png)
 
 ## Usage
 
